@@ -65,7 +65,7 @@ predictions = your_model.predict(your_x_data)
 
 ---
 
-### **[Naive Bayes](http://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html#sklearn.naive_bayes.MultinomialNB))**
+### **[Naive Bayes](http://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html#sklearn.naive_bayes.MultinomialNB)**
 
 **Import and create the model:**
 
